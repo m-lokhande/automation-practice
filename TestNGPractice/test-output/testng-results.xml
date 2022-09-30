@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="400" started-at="2022-09-30T00:21:34 IST" finished-at="2022-09-30T00:21:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="400" started-at="2022-09-30T00:21:34 IST" finished-at="2022-09-30T00:21:35 IST">
+      <class name="testngsamples.Actitime_Timeout">
+        <test-method status="PASS" signature="openBrowserAndAppURL()[pri:0, instance:testngsamples.Actitime_Timeout@67205a84]" name="openBrowserAndAppURL" duration-ms="331" started-at="2022-09-30T00:21:35 IST" finished-at="2022-09-30T00:21:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndAppURL -->
+      </class> <!-- testngsamples.Actitime_Timeout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
